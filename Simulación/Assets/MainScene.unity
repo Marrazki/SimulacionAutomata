@@ -184,7 +184,7 @@ MonoBehaviour:
   ancho: 100
   alto: 100
   espacioEntreCubos: 1.5
-  probabilidadVivos: 0.616
+  probabilidadVivos: 0.3
   tiempoEntreJugadas: 2
   probabilidadTerremoto: 0.05
   anchoTerremoto: 10
